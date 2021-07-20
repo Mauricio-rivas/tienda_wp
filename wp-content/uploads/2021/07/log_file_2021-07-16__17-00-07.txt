@@ -1,0 +1,103 @@
+
+---Downloaded files---
+The import files for: Open Shop Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Proyecto%20tienda/wordpress
+Data file = C:\xampp\htdocs\Proyecto tienda\wordpress/wp-content/uploads/2021/07/demo-content-import-file_2021-07-16__17-00-07.xml
+Widget file = C:\xampp\htdocs\Proyecto tienda\wordpress/wp-content/uploads/2021/07/demo-widgets-import-file_2021-07-16__17-00-07.json
+Customizer file = C:\xampp\htdocs\Proyecto tienda\wordpress/wp-content/uploads/2021/07/demo-customizer-import-file_2021-07-16__17-00-07.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "post1" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Open Shop : About Us widget - About Us - Imported
+Products by Rating list - Top rated - Imported
+Products list - Products - Imported
+Open Shop : Post Slide widget - Latest News - Imported
+
+Footer Top Second Widget : 
+
+Image - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Text - No Title - Imported
+
+Footer Widget Area 2 : 
+
+Tag Cloud - Tag Clouds - Imported
+
+Footer Widget Area 3 : 
+
+Products list - Sale Products - Imported
+
+Footer Widget Area 4 : 
+
+Custom HTML - Contact Details - Imported
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Filter by - Imported
+Products by Rating list - Top rated products - Imported
+
+Product Sidebar : 
+
+Products by Rating list - Top rated products - Imported
+Products list - On Sale - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
