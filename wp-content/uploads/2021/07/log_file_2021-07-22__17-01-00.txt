@@ -1,0 +1,58 @@
+
+---Downloaded files---
+The import files for: Open Shop Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Proyecto%20tienda/wordpress
+Data file = C:\xampp\htdocs\Proyecto tienda\wordpress/wp-content/uploads/2021/07/demo-content-import-file_2021-07-22__17-01-00.xml
+Widget file = C:\xampp\htdocs\Proyecto tienda\wordpress/wp-content/uploads/2021/07/demo-widgets-import-file_2021-07-22__17-01-00.json
+Customizer file = C:\xampp\htdocs\Proyecto tienda\wordpress/wp-content/uploads/2021/07/demo-customizer-import-file_2021-07-22__17-01-00.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary Sidebar : 
+
+Open Shop : About Us widget - About Us - Widget already exists
+Products by Rating list - Top rated - Widget already exists
+Products list - Products - Widget already exists
+Open Shop : Post Slide widget - Latest News - Widget already exists
+
+Footer Top Second Widget : 
+
+Image - No Title - Widget already exists
+
+Footer Widget Area 1 : 
+
+Text - No Title - Widget already exists
+
+Footer Widget Area 2 : 
+
+Tag Cloud - Tag Clouds - Widget already exists
+
+Footer Widget Area 3 : 
+
+Products list - Sale Products - Widget already exists
+
+Footer Widget Area 4 : 
+
+Custom HTML - Contact Details - Widget already exists
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by price - Widget already exists
+Filter Products by Attribute - Filter by - Widget already exists
+Products by Rating list - Top rated products - Widget already exists
+
+Product Sidebar : 
+
+Products by Rating list - Top rated products - Widget already exists
+Products list - On Sale - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
