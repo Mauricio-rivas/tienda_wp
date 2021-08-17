@@ -1,0 +1,6 @@
+2021-08-16T19:16:09+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\Proyecto tienda\wordpress\wp-content\themes\open-shop\footer.php on line 20
+
+2021-08-16T19:16:58+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\Proyecto tienda\wordpress\wp-content\themes\open-shop\footer.php on line 20
+
+2021-08-16T20:44:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Proyecto tienda\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+

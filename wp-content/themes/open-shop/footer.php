@@ -15,10 +15,12 @@
           // widget-footer
 		      do_action( 'open_shop_widget_footer' );
 		      // below-footer
-          do_action( 'open_shop_below_footer' );  
+          do_action( 'open_shop_below_footer' ); 
+	
+	
         ?>
      </footer> <!-- end footer -->
     </div> <!-- end openshop-site -->
-<?php wp_footer(); ?>
+  <?php wp_footer(); ?>
 </body>
 </html>
